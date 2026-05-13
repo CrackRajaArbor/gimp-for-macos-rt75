@@ -1,4 +1,4 @@
-# 
+# ultimate Filter for Gimp for macOS - content-aware fill and color correction offers the most advanced Gimp for macOS filter, with content-aware fill and color correction. Ideal
 
 
 
